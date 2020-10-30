@@ -72,6 +72,9 @@ import java.util.TreeSet;
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
+        if(m*k>bloomDay.length){
+            return -1;
+        }
         Integer[] daysAndSort = getDaysAndSort(bloomDay);
         int left = 0 ;
         int right = daysAndSort.length;

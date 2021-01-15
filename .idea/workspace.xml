@@ -1,75 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="77a39ab7-0e8f-4d13-b201-033ab03b766e" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="77a39ab7-0e8f-4d13-b201-033ab03b766e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode42/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode611/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode239/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode239/Solution2.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode242/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Go File" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>&quot;</find>
-      <find>max</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>'</replace>
-    </replaceStrings>
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="D:/spring-framework" value="PREVIEW" />
-        <entry key="D:/spring-framework-5.0.2.RELEASE-中文注释版" value="PREVIEW" />
-        <entry key="D:/源码/spring-framework-5.0.2.RELEASE-中文注释版" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/queue/Leecode20.java" />
-        <option value="$PROJECT_DIR$/src/leetcode20/Leecode20.java" />
-        <option value="$PROJECT_DIR$/src/leetcode20/Solution.java" />
-        <option value="$PROJECT_DIR$/src/leetcode225/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/leetcode232/MyQueue.java" />
-        <option value="$PROJECT_DIR$/src/leetcode703/KthLargest.java" />
-        <option value="$PROJECT_DIR$/src/leetcode239/Solution.java" />
-        <option value="$PROJECT_DIR$/src/leetcode242/Solution.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1037" />
@@ -77,128 +51,157 @@
     <option name="width" value="808" />
     <option name="height" value="788" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-    </panes>
+  <component name="ProjectId" id="1mx5uKnBfetFGceMwnVLnH7txDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode42" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Solution2">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode239.Solution" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.BubbleSort" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode239.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode239.Solution2" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode611.Solution" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode239.*" />
+          <option name="PATTERN" value="leetcode611.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode42.Solution" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode42.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
       </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="go build solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/leetcode611/solution.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test_case.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="go test" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/leetcode611/test_case.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode leetcode611" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/../leetcode|$PROJECT_DIR$/src/leetcode611/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution2" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Go Build.go build test_case.go" />
+      <item itemvalue="Go Build.go build solution.go" />
+      <item itemvalue="Go Test.leetcode leetcode611" />
+      <item itemvalue="Application.BubbleSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Go Build.go build solution.go" />
+        <item itemvalue="Go Build.go build test_case.go" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -213,55 +216,99 @@
       <workItem from="1574345403349" duration="5057000" />
       <workItem from="1574689108638" duration="28450000" />
       <workItem from="1575466885642" duration="2012000" />
+      <workItem from="1610422623761" duration="11593000" />
+      <workItem from="1610694111040" duration="5270000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35519000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="RestServices" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32905984" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Tail" order="7" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5754986" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="aiXcoder" order="3" side_tool="true" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19569603" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="8" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610429524670">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="123" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610429524670" />
+    <state width="1878" height="536" key="GridCell.Tab.0.bottom" timestamp="1610701596900">
+      <screen x="-221" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="433" key="GridCell.Tab.0.bottom/0.0.1440.829/-221.-1055.1920.1055@0.0.1440.829" timestamp="1610447620122" />
+    <state width="1878" height="536" key="GridCell.Tab.0.bottom/0.0.1440.900/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610701596900" />
+    <state width="1398" height="433" key="GridCell.Tab.0.bottom/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610446927499" />
+    <state width="1878" height="536" key="GridCell.Tab.0.bottom/0.25.1440.807/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610694770386" />
+    <state width="1878" height="536" key="GridCell.Tab.0.center" timestamp="1610701596895">
+      <screen x="-221" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="433" key="GridCell.Tab.0.center/0.0.1440.829/-221.-1055.1920.1055@0.0.1440.829" timestamp="1610447620121" />
+    <state width="1878" height="536" key="GridCell.Tab.0.center/0.0.1440.900/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610701596895" />
+    <state width="1398" height="433" key="GridCell.Tab.0.center/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610446927497" />
+    <state width="1878" height="536" key="GridCell.Tab.0.center/0.25.1440.807/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610694770384" />
+    <state width="1878" height="536" key="GridCell.Tab.0.left" timestamp="1610701596890">
+      <screen x="-221" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="433" key="GridCell.Tab.0.left/0.0.1440.829/-221.-1055.1920.1055@0.0.1440.829" timestamp="1610447620121" />
+    <state width="1878" height="536" key="GridCell.Tab.0.left/0.0.1440.900/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610701596890" />
+    <state width="1398" height="433" key="GridCell.Tab.0.left/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610446927495" />
+    <state width="1878" height="536" key="GridCell.Tab.0.left/0.25.1440.807/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610694770383" />
+    <state width="1878" height="536" key="GridCell.Tab.0.right" timestamp="1610701596897">
+      <screen x="-221" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="433" key="GridCell.Tab.0.right/0.0.1440.829/-221.-1055.1920.1055@0.0.1440.829" timestamp="1610447620122" />
+    <state width="1878" height="536" key="GridCell.Tab.0.right/0.0.1440.900/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610701596897" />
+    <state width="1398" height="433" key="GridCell.Tab.0.right/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610446927498" />
+    <state width="1878" height="536" key="GridCell.Tab.0.right/0.25.1440.807/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610694770385" />
+    <state width="1878" height="536" key="GridCell.Tab.1.bottom" timestamp="1610701550165">
+      <screen x="-221" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="433" key="GridCell.Tab.1.bottom/0.0.1440.829/-221.-1055.1920.1055@0.0.1440.829" timestamp="1610447620126" />
+    <state width="1878" height="536" key="GridCell.Tab.1.bottom/0.0.1440.900/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610701550165" />
+    <state width="1398" height="433" key="GridCell.Tab.1.bottom/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610446927655" />
+    <state width="1878" height="536" key="GridCell.Tab.1.bottom/0.25.1440.807/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610694666801" />
+    <state width="1878" height="536" key="GridCell.Tab.1.center" timestamp="1610701550163">
+      <screen x="-221" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="433" key="GridCell.Tab.1.center/0.0.1440.829/-221.-1055.1920.1055@0.0.1440.829" timestamp="1610447620124" />
+    <state width="1878" height="536" key="GridCell.Tab.1.center/0.0.1440.900/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610701550163" />
+    <state width="1398" height="433" key="GridCell.Tab.1.center/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610446927653" />
+    <state width="1878" height="536" key="GridCell.Tab.1.center/0.25.1440.807/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610694666800" />
+    <state width="1878" height="536" key="GridCell.Tab.1.left" timestamp="1610701550161">
+      <screen x="-221" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="433" key="GridCell.Tab.1.left/0.0.1440.829/-221.-1055.1920.1055@0.0.1440.829" timestamp="1610447620123" />
+    <state width="1878" height="536" key="GridCell.Tab.1.left/0.0.1440.900/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610701550161" />
+    <state width="1398" height="433" key="GridCell.Tab.1.left/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610446927652" />
+    <state width="1878" height="536" key="GridCell.Tab.1.left/0.25.1440.807/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610694666799" />
+    <state width="1878" height="536" key="GridCell.Tab.1.right" timestamp="1610701550164">
+      <screen x="-221" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="433" key="GridCell.Tab.1.right/0.0.1440.829/-221.-1055.1920.1055@0.0.1440.829" timestamp="1610447620124" />
+    <state width="1878" height="536" key="GridCell.Tab.1.right/0.0.1440.900/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610701550164" />
+    <state width="1398" height="433" key="GridCell.Tab.1.right/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610446927654" />
+    <state width="1878" height="536" key="GridCell.Tab.1.right/0.25.1440.807/-221.-1080.1920.1080@-221.-1080.1920.1080" timestamp="1610694666801" />
+    <state x="229" y="57" key="SettingsEditor" timestamp="1610431593389">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="57" key="SettingsEditor/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610431593389" />
+    <state x="482" y="330" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1610428770043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="330" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610428770043" />
+    <state width="375" height="261" key="documentation.popup.size" timestamp="1610423214174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="375" height="261" key="documentation.popup.size/0.0.1440.900/-221.-1080.1920.1080@0.0.1440.900" timestamp="1610423214174" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,179 +323,34 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode239/Solution.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode239/Solution.java</url>
           <line>82</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode611/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode611/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode42/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/BubbleSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="27" />
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode232/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="41" column="51" selection-end-line="52" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode703/KthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode20/Leecode20.java" />
-    <entry file="jar://D:/develop/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="82" column="23" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/Java/jdk1.8.0_171/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="48" column="11" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode225/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="7" lean-forward="true" selection-end-line="74" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode703.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode232/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="41" column="51" selection-end-line="52" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/Java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="356" column="34" selection-start-line="356" selection-start-column="29" selection-end-line="356" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/Java/jdk1.8.0_171/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="209" lean-forward="true" selection-start-line="209" selection-end-line="209" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="206" column="13" selection-start-line="206" selection-start-column="13" selection-end-line="206" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode20/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode703/KthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="72" lean-forward="true" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/360MoveData/Users/17640/Desktop/3dsq-full/src/main/java/com/d3sq/common/utils/PinyinUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="117" column="41" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/360MoveData/Users/17640/Desktop/3dsq-full/src/main/java/com/d3sq/common/utils/WebUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714" />
-      </provider>
-    </entry>
-    <entry file="file://D:/360MoveData/Users/17640/Desktop/3dsq-full/src/main/java/com/d3sq/common/utils/SystemUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/360MoveData/Users/17640/Desktop/3dsq-full/src/main/java/com/d3sq/common/interceptors/AuthInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1530" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/Java/jdk1.8.0_171/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="324" column="13" selection-start-line="324" selection-start-column="13" selection-end-line="324" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode239/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode242/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

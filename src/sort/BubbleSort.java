@@ -3,6 +3,9 @@ package sort;
 import java.util.Arrays;
 import java.util.Random;
 
+/**
+ * 冒泡
+ */
 public class BubbleSort {
 
     public static int[] bubbleSort(int[] array) {
@@ -22,19 +25,6 @@ public class BubbleSort {
     }
 
 
-    public static void sort(int[] arr) {
-        for (int i = 0; i < arr.length - 1; i++) {
-            for (int j = 0; j < arr.length - 1 - i; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    int temp =arr[j + 1];
-                    arr[j + 1]=arr[j];
-                    arr[j]=temp;
-                }
-            }
-        }
-
-    }
-
     public static void main(String[] args) {
 
         Random random = new Random();
@@ -45,5 +35,20 @@ public class BubbleSort {
         sort(arr);
         System.out.println(Arrays.toString(arr));
 
+    }
+
+    private static void sort(int[] arr) {
+        if(arr==null||arr.length<2){
+            return ;
+        }
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr.length - i - 1; j++) {
+                if (arr[j] > arr[j + 1]) {
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1]=temp;
+                }
+            }
+        }
     }
 }

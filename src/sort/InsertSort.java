@@ -25,19 +25,20 @@ public class InsertSort {
         }
     }
 
+
     public static void sort(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
         }
-        for (int i = 0; i < arr.length; i++) {
-            int insertNode ;
-            int j;
-            for (j = i,insertNode = arr[i]; j > 0 && arr[j-1] > insertNode; j--) {
-                arr[j]=arr[j-1];
+        int node;
+        int j;
+        for (int i = 1; i < arr.length; i++) {
+            for (j = i, node = arr[j]; j > 0 && node < arr[j - 1]; j--) {
+                arr[j] = arr[j - 1];
             }
-            arr[j]=insertNode;
+            arr[j] = node;
         }
-
     }
+
 
 }

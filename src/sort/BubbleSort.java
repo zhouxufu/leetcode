@@ -25,17 +25,17 @@ public class BubbleSort {
     }
 
 
-    public static void main(String[] args) {
-
-        Random random = new Random();
-        int[] arr = new int[10];
-        for (int i = 0; i < 10; i++) {
-            arr[i] = random.nextInt(1000);
-        }
-        sort(arr);
-        System.out.println(Arrays.toString(arr));
-
-    }
+//    public static void main(String[] args) {
+//
+//        Random random = new Random();
+//        int[] arr = new int[10];
+//        for (int i = 0; i < 10; i++) {
+//            arr[i] = random.nextInt(1000);
+//        }
+//        sort(arr);
+//        System.out.println(Arrays.toString(arr));
+//
+//    }
 
     private static void sort(int[] arr) {
         if(arr==null||arr.length<2){
@@ -50,5 +50,14 @@ public class BubbleSort {
                 }
             }
         }
+    }
+
+    public static void main(String[] args) {
+         double sqrt = Math.sqrt(Math.abs(Math.pow(2 - 1, 2) + Math.pow(2 - 1, 2)));
+         double sqrt2 = Math.sqrt(Math.abs(Math.pow(7 - 2, 2) + Math.pow(7 - 2, 2)));
+         double sqrt3 = Math.sqrt(Math.abs(Math.pow(7 - 1, 2) + Math.pow(7 - 1, 2)));
+        System.out.println(sqrt2);
+        System.out.println(sqrt);
+        System.out.println(sqrt3);
     }
 }

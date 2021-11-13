@@ -1,4 +1,4 @@
-package leetcode20;
+package stack;
 
 
 import java.util.*;
@@ -7,7 +7,8 @@ import java.util.*;
  * 利用栈解决 校验括号
  * @author 17640
  */
-class Solution {
+public class LC_20{
+ class Solution {
     public boolean isValid(String s) {
         char[] chars = s.toCharArray();
         Map<Character,Character> map = new HashMap<>();
@@ -30,4 +31,5 @@ class Solution {
         }
         return true;
     }
+}
 }

@@ -43,30 +43,31 @@ public class QuickSort {
 
     }
 
-    public static void sort(int[] arr, int start, int end) {
-        if (start >= end) {
+    private static void quickSort(int[] nums,int start,int end){
+        if(start > end){
             return;
         }
-        int pivot = arr[start];
-        int left = start;
+
+        int left  = start;
         int right = end;
-        while (left <= right) {
-            while (left <= right && arr[left] < pivot) {
+        int position = nums[start];
+        while(left <= right ){
+            while(left <= right && nums[left] <  position){
                 left++;
             }
-            while (left <= right && arr[right] > pivot) {
+            while(left <= right && nums[right] > position){
                 right--;
             }
-            if (left <= right) {
-                int temp = arr[left];
-                arr[left] = arr[right];
-                arr[right] = temp;
+            if(left <= right){
+                int temp = nums[right];
+                nums[right] = nums[left];
+                nums[left] =temp;
                 left++;
                 right--;
             }
         }
-        sort(arr, start, right);
-        sort(arr, left, end);
+        quickSort(nums,start,right);
+        quickSort(nums,left,end);
     }
 
 }

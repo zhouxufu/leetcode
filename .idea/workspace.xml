@@ -19,13 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77a39ab7-0e8f-4d13-b201-033ab03b766e" name="Default" comment="没事">
-      <change afterPath="$PROJECT_DIR$/src/demo/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer53_2.java" afterDir="false" />
+    <list default="true" id="77a39ab7-0e8f-4d13-b201-033ab03b766e" name="Default" comment="下雨天打孩子，闲着也会闲着">
+      <change afterPath="$PROJECT_DIR$/src/doublepointer/LC42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash/LC15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode144/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linklist/LC92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursive/LC_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/LC102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/Offer50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/程序员面试金典/P10_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode20/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode20/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/LC_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode22/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode42/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/LC297_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/LC297_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +58,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1mx5uKnBfetFGceMwnVLnH7txDU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,6 +78,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -76,14 +96,14 @@
       <recent name="leetcode42" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Offer11">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Demo1" />
+  <component name="RunManager" selected="Application.LC15">
+    <configuration name="LC15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.LC15" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer04" />
+    <configuration name="Offer10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer10" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -105,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer11" />
+    <configuration name="Offer32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer32" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -119,13 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer53" />
+    <configuration name="P10_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员面试金典.P10_03" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
+          <option name="PATTERN" value="程序员面试金典.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Offer58" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode144.Solution" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
+          <option name="PATTERN" value="leetcode144.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,23 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="leetcode leetcode611" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/../leetcode|/Users/zhouxufu/develop/workspace/leetcode/src/leetcode611/" />
+      <filePath value="$PROJECT_DIR$/../leetcode|$PROJECT_DIR$/src/leetcode611/" />
       <framework value="gotest" />
       <method v="2" />
     </configuration>
@@ -190,19 +199,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Offer58" />
-      <item itemvalue="Application.Demo1" />
-      <item itemvalue="Application.Offer53" />
-      <item itemvalue="Application.Offer04" />
-      <item itemvalue="Application.Offer11" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Offer32" />
+      <item itemvalue="Application.P10_03" />
+      <item itemvalue="Application.Offer10" />
+      <item itemvalue="Go Test.leetcode leetcode611" />
+      <item itemvalue="Application.LC15" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Offer11" />
-        <item itemvalue="Application.Offer04" />
-        <item itemvalue="Application.Offer53" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Offer58" />
+        <item itemvalue="Application.LC15" />
+        <item itemvalue="Application.Offer10" />
+        <item itemvalue="Application.P10_03" />
+        <item itemvalue="Application.Offer32" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +256,23 @@
       <workItem from="1629454446168" duration="589000" />
       <workItem from="1629702721660" duration="17174000" />
       <workItem from="1630405324967" duration="857000" />
-      <workItem from="1630992970092" duration="9584000" />
+      <workItem from="1630992970092" duration="16733000" />
+      <workItem from="1631777892145" duration="2623000" />
+      <workItem from="1632276454877" duration="2067000" />
+      <workItem from="1633082747176" duration="561000" />
+      <workItem from="1633948303243" duration="1058000" />
+      <workItem from="1634551134007" duration="1473000" />
+      <workItem from="1634608579541" duration="582000" />
+      <workItem from="1634867231842" duration="403000" />
+      <workItem from="1634898193285" duration="684000" />
+      <workItem from="1634901055082" duration="289000" />
+      <workItem from="1635242383043" duration="743000" />
+      <workItem from="1635919622252" duration="876000" />
+      <workItem from="1636020579521" duration="2920000" />
+      <workItem from="1636436001557" duration="913000" />
+      <workItem from="1636465715186" duration="4608000" />
+      <workItem from="1636546675967" duration="21053000" />
+      <workItem from="1636689547138" duration="5076000" />
     </task>
     <task id="LOCAL-00001" summary="没事">
       <created>1610704838087</created>
@@ -283,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629883785862</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="下雨天打孩子，闲着也会闲着">
+      <created>1631181487126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631181487126</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,15 +336,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="没事" />
-    <option name="LAST_COMMIT_MESSAGE" value="没事" />
+    <MESSAGE value="下雨天打孩子，闲着也会闲着" />
+    <option name="LAST_COMMIT_MESSAGE" value="下雨天打孩子，闲着也会闲着" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/leetcode20/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/stack/LC_20.java</url>
           <line>10</line>
-          <properties class="leetcode20.Solution" method="isValid">
+          <properties class="stack.LC_20.Solution">
             <option name="EMULATED" value="true" />
           </properties>
         </line-breakpoint>
@@ -336,7 +370,7 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode42/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/doublepointer/LC42.java</url>
           <line>16</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
@@ -372,17 +406,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tree/LC297_01.java</url>
-          <line>121</line>
+          <line>130</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tree/LC297_01.java</url>
-          <line>89</line>
+          <line>98</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tree/LC297_01.java</url>
-          <line>131</line>
+          <line>140</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -474,6 +508,71 @@
           <url>file://$PROJECT_DIR$/src/剑指offer/Offer11.java</url>
           <line>14</line>
           <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/Offer50.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode144/Solution.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode144/Solution.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode144/Solution.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode144/Solution.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode144/Solution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/Offer32.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/程序员面试金典/P10_03.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/程序员面试金典/P10_03.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/剑指offer/Offer10.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/LC15.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/LC15.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hash/LC15.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="160" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
